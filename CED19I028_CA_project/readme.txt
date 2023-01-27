@@ -1,5 +1,7 @@
+## Instruction codes are given as a text file, task is to read them using python and get results.
+demo main memory has been created as 'memory.txt' file, value of registers are given there.
+
 Name - Sumit Kumar
-Roll No. - CED19I028
 
 CA PROJECT CODE...
 
